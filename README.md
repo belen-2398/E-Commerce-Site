@@ -1,3 +1,1 @@
-E-Commerce site
-Laravel, Bootstrap, Livewire, jQuery
-Unpolished
+E-Commerce site with Laravel, Bootstrap, Livewire and jQuery.
